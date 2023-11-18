@@ -108,10 +108,10 @@ header {
         color: #fff;
 }
 .socials {
-    width: 60%;
+    width:20%;
     margin: 1rem auto;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
 }
 .socials p {
     margin:1rem;
